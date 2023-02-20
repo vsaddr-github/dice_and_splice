@@ -33,5 +33,5 @@ Run from DOS/CMD prompt
 
 `dice_n_splice.bat <input_file_name>`
 
-note onle file is accepted as input in one invokation from the command line.
+note onle one file is accepted as input in one invokation from the command line.
 
