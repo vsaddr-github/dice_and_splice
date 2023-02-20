@@ -4,7 +4,7 @@
 
 Windows batch file in this repo:  `dice_n_splice.bat`
 
-### Install Image Magick
+### Install Image Magick (IM)
 
 Download IM from  https://imagemagick.org/script/download.php#window and install on your computer. 
 
