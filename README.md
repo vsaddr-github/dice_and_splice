@@ -25,10 +25,12 @@ See https://imagemagick.org/Usage/crop/#chop for general sampleas and explanatio
 Only png, tiff, jpeg, gif file types are supported (IM supported formats) -- but **NOT** camera RAW files. 
 
 ### Usage 
-The easiest way to use on Windows : drop  the input file via "drag and drop"  on the batch file and output will appear in sliced directory underneaf the folder where input file is located.
+The easiest way to use on Windows : drop  the input file via "drag and drop"  on the batch file and output will appear in sliced directory underneaf the folder where input file is located. You can run number of conversions simultaneosly.
 
 or 
 Run from DOS/CMD prompt
 
 `dice_n_splice.bat <input_file_name>`
+
+note onle file is accepted as input in one invokation
 
