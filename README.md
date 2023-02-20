@@ -14,6 +14,9 @@ Make sure magick.exe is on your path. Otherwise replace "magick" in the batch fi
 
 The script at the moment is configured for Canon EOS R image dimensions and the specific image file. It is used to remove unnecessary parts of image of 35 mm "Vlads Test Target" scan for the sharpness analysis. "Vlads Test Target" in varios popular photographic formats as a _real strips of film_ is available at https://www.etsy.com/shop/SilverKnits
 
+### Image samples
+Visit https://www.facebook.com/VladsTestTarget/posts/pfbid0PuD38k9M5zCSXWL2m2apjPwdknxVGvkRofpjsvngCjoLhHYABASSFRKnzLq5HtKql for details and see images. GitHub cannot host large image files.
+
 ### How script works
 See https://imagemagick.org/Usage/crop/#chop for general sampleas and explanations and see the comments inside batch file for the details.
 
